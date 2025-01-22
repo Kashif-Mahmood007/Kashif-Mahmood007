@@ -63,8 +63,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35" style="margin-left: 8px;"/> 
   </a> 
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif-mahmood007&show_icons=true&locale=en&layout=compact" alt="kashif-mahmood007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-mahmood007&show_icons=true&locale=en" alt="kashif-mahmood007" /></p>
