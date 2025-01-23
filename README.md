@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Leaning, Deep Learning**
 
-- 💬 Ask me about **Python, Pandas, Numpy, Matplotlib, Seaborn, Data Structures & Algorithms**
+- 💬 Ask me about **Python, MySQL, Pandas, Numpy, Matplotlib, Seaborn, Data Structures & Algorithms**
 
 - 📫 How to reach me **kashif03371733@gmail.com**
 
