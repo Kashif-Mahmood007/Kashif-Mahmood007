@@ -9,10 +9,11 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/01/analytics-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashif-mahmood007&label=Profile%20views&color=0e75b6&style=flat" alt="kashif-mahmood007" /> </p>
 
 ## 🚀 What I Do
+
+<img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/01/analytics-1.gif">
 
 - 🕸️ Leveraged BeautifulSoup for web scraping
 - 📊 Performed data preprocessing, exploratory data analysis (EDA), and data visualization using Pandas, NumPy, Matplotlib, Seaborn, and Plotly
