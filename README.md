@@ -58,6 +58,4 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zunaira-hameed&layout=compact&theme=github_dark&hide_border=true)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashif-mahmood007&layout=compact&theme=github_dark&hide_border=true)
