@@ -36,9 +36,9 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 
 ## 📫 Contact Me
 
-📧 **Email:** [zunairamughal47@gmail.com](mailto:kashif03371733@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/zunaira-hameed](https://www.linkedin.com/in/kashif-mahmood-data-scientist/)  
-🌐 **Portfolio:** [zunairahameedportfolio.42web.io](https://kashif-mahmood007.github.io/Kashif-Mahmood-Portfolio/)
+📧 **Email:** [kashif03371733@gmail.com](mailto:kashif03371733@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/kashif-mahmood-data-scientist](https://www.linkedin.com/in/kashif-mahmood-data-scientist/)  
+🌐 **Portfolio:** [kashif-mahmood007.github.io/Kashif-Mahmood-Portfolio/](https://kashif-mahmood007.github.io/Kashif-Mahmood-Portfolio/)
 
 ---
 
@@ -57,8 +57,6 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 ---
 
 ## 📊 GitHub Stats
-
-![Zunaira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zunaira-hameed&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zunaira-hameed&layout=compact&theme=github_dark&hide_border=true)
 
