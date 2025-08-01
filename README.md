@@ -44,27 +44,25 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 
 ## 💻 Tech Stack
 
-### 🧰 Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Statistics](https://img.shields.io/badge/-Statistics-3E7DD8?style=for-the-badge&logo=R&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-42A5F5?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
-![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-217346?logo=microsoft&logoColor=white&style=for-the-badge)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![UML Tools](https://img.shields.io/badge/-UML%20Tools-6A5ACD?style=for-the-badge&logo=uml&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistics-3E7DD8?style=flat-square&logo=R&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-42A5F5?style=flat-square&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B0000?style=flat-square&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?logo=microsoft&logoColor=white&style=flat-square)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-005C84?logo=mysql&logoColor=white&style=flat-square)
+![UML Tools](https://img.shields.io/badge/UML_Tools-6A5ACD?style=flat-square&logoColor=white)
 
 
 ---
