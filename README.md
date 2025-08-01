@@ -25,10 +25,10 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 
 ## 🛠️ Tools & Tech
 
-**Languages:** Python, SQL, JavaScript, Php, C++  
-**Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, PyTorch, BeautifulSoup  
-**Tools:** Jupyter Notebook, Google Colab, VS Code, Git, GitHub, Jira, Microsoft Project, MySQL Workbench, UML Tools, PowerBI
-**Others:** Web Development, Statistics, Database Management System
+- **Languages:** Python, SQL, JavaScript, Php, C++  
+- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, PyTorch, BeautifulSoup  
+- **Tools:** Jupyter Notebook, Google Colab, VS Code, Git, GitHub, Jira, Microsoft Project, MySQL Workbench, UML Tools, PowerBI
+- **Others:** Web Development, Statistics, Database Management System
 
 ---
 
