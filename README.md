@@ -16,7 +16,7 @@ I’m Kashif Mahmood, a Software Engineer with strong expertise in software desi
 ### Software Engineering  
 - Designed and developed scalable applications using C++, JavaScript, PHP, and MySQL
 - Built full-stack projects including Library Management System, Task Tracking System, and Q&A platforms
-- Implemented secure, optimized, and user-friendly systems** with focus on performance and maintainability  
+- Implemented secure, optimized, and user-friendly systems with focus on performance and maintainability  
 - Experienced in SDLC, version control (Git/GitHub), UML modeling, and software architecture design
 
 ### Data Science & AI  
