@@ -4,8 +4,7 @@
 
 ## 💫 About Me
  
-I’m Kashif Mahmood, a Software Engineer with strong expertise in software design, full-stack development, and system architecture, combined with hands-on experience in machine learning and deep learning.  
-I enjoy building scalable applications, intelligent systems, and clean, efficient code. My experience spans from web and software development to applied AI research, enabling me to bridge the gap between software engineering and data-driven solutions.  
+I’m Kashif Mahmood, a Software Engineer with strong expertise in software design, full-stack development, and system architecture, combined with hands-on experience in machine learning and deep learning. I enjoy building scalable applications, intelligent systems, and clean, efficient code. My experience spans from web and software development to applied AI research, enabling me to bridge the gap between software engineering and data-driven solutions.  
 
 ---
 
