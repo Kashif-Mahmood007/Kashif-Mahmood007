@@ -1,11 +1,11 @@
 [![MasterHead](https://drive.google.com/uc?id=1Z6GijtlwxTrqx9ENFu2XRZ7xh6jW4E7w)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kashif Mahmood</h1>
-<h3 align="center">Data Scientist | Problem Solver | Machine Learning | Deep Learning | Smart Agriculture Researcher | Image Processing | Web Developer</h3>
+<h3 align="center">Software Engineer | Data Scientist & AI Enthusiast | Problem Solver | Smart Agriculture Researcher | Image Processing | Web Developer</h3>
 
 ## 💫 About Me
-
-**Professional Version:**  
-I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on experience, eager to make impactful contributions in the field. My core expertise lies in machine learning, deep learning, research, and image processing. I am passionate about solving real-world problems and continuously expanding my skill set through collaboration with industry professionals.
+ 
+I’m Kashif Mahmood, a Software Engineer with strong expertise in software design, full-stack development, and system architecture, combined with hands-on experience in machine learning and deep learning.  
+I enjoy building scalable applications, intelligent systems, and clean, efficient code. My experience spans from web and software development to applied AI research, enabling me to bridge the gap between software engineering and data-driven solutions.  
 
 ---
 
@@ -13,13 +13,21 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 
 <img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/01/analytics-1.gif">
 
-- 🕸️ Leveraged BeautifulSoup for web scraping
-- 📊 Performed data preprocessing, exploratory data analysis (EDA), and data visualization using Pandas, NumPy, Matplotlib, Seaborn, and Plotly
-- ⚙️ Applied various feature engineering techniques including standardization, mathematical transformations, and PCA
-- 🤖 Built machine learning models using Scikit-learn and Pandas
-- 🧠 Developed deep learning models for image processing tasks using PyTorch
-- 🖼️ Worked on image classification, prediction systems, and interactive dashboard applications
-- 🔍 Conducted model evaluation and tuning using techniques such as cross-validation, grid search, and confusion matrix analysis
+
+### Software Engineering  
+- Designed and developed scalable applications using C++, JavaScript, PHP, and MySQL
+- Built full-stack projects including Library Management System, Task Tracking System, and Q&A platforms
+- Implemented secure, optimized, and user-friendly systems** with focus on performance and maintainability  
+- Experienced in SDLC, version control (Git/GitHub), UML modeling, and software architecture design
+
+### Data Science & AI  
+- Leveraged BeautifulSoup for web scraping
+- Performed data preprocessing, exploratory data analysis (EDA), and data visualization using Pandas, NumPy, Matplotlib, Seaborn, and Plotly
+- Applied various feature engineering techniques including standardization, mathematical transformations, and PCA
+- Built machine learning models using Scikit-learn and Pandas
+- Developed deep learning models for image processing tasks using PyTorch
+- Worked on image classification, prediction systems, and interactive dashboard applications
+- Conducted model evaluation and tuning using techniques such as cross-validation, grid search, and confusion matrix analysis
 
 ---
 
@@ -27,7 +35,7 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 
 - **Languages:** Python, SQL, JavaScript, Php, C++  
 - **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, PyTorch, BeautifulSoup  
-- **Tools:** Jupyter Notebook, Google Colab, VS Code, Git, GitHub, Jira, Microsoft Project, MySQL Workbench, UML Tools, PowerBI
+- **Software Engineering Tools:** Jupyter Notebook, Google Colab, VS Code, Git, GitHub, Jira, Microsoft Project, MySQL Workbench, UML Tools, PowerBI
 - **Others:** Web Development, Statistics, Database Management System
 
 ---
@@ -35,8 +43,7 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 ## 📫 Contact Me
 
 📧 **Email:** [kashif03371733@gmail.com](mailto:kashif03371733@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/kashif-mahmood-data-scientist](https://www.linkedin.com/in/kashif-mahmood-data-scientist/)  
-🌐 **Portfolio:** [kashif-mahmood007.github.io/Kashif-Mahmood-Portfolio/](https://kashif-mahmood007.github.io/Kashif-Mahmood-Portfolio/)
+💼 **LinkedIn:** [linkedin.com/in/kashif-mahmood-data-scientist](https://www.linkedin.com/in/kashif-mahmood-data-scientist/)
 
 ---
 
