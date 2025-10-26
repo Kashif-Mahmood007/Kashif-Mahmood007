@@ -4,7 +4,6 @@
 
 ## 💫 About Me
 
-**Professional Version:**  
 I’m Kashif Mahmood, an AI & Data enthusiast passionate about transforming data into intelligent, real-world solutions. With hands-on experience in machine learning, deep learning, and AI research, I focus on building data-driven systems that combine analytical insight with automation and intelligence. My work integrates AI models, image-based systems, and smart solutions for domains like agriculture and healthcare. I am passionate about solving real-world problems and continuously expanding my skill set through collaboration with industry professionals.
 
 ---
