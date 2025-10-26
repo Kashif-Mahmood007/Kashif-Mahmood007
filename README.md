@@ -12,14 +12,14 @@ I’m Kashif Mahmood, an AI & Data enthusiast passionate about transforming data
 
 <img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/01/analytics-1.gif">
 
-- 📊 Performed data preprocessing, exploratory data analysis (EDA), and data visualization using Pandas, NumPy, Matplotlib, Seaborn, and Plotly
-- ⚙️ Applied various feature engineering techniques including standardization, mathematical transformations, and PCA
+- 🌾 Research and develop AI-based solutions for Smart Agriculture, focusing on disease and pest detection
 - 🤖 Built machine learning models using Scikit-learn and Pandas
 - 🧠 Design neural networks and computer vision pipelines using PyTorch and TensorFlow
+- 🔍 Conducted model evaluation and optimization using techniques such as cross-validation, grid search, and confusion matrices
+- 📊 Performed data preprocessing, exploratory data analysis (EDA), and data visualization using Pandas, NumPy, Matplotlib, Seaborn, and Plotly
+- ⚙️ Applied various feature engineering techniques including standardization, mathematical transformations, and PCA
 - 🖼️ Work on image processing, object detection, and AI-powered decision systems
 - 🕸️ Build data-driven applications with Flask and core Web development technologies
-- 🔍 Conducted model evaluation and optimization using techniques such as cross-validation, grid search, and confusion matrices
-- 🌾 Research and develop AI-based solutions for Smart Agriculture, focusing on disease and pest detection
 
 ---
 
