@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?id=1Z6GijtlwxTrqx9ENFu2XRZ7xh6jW4E7w)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/uc?id=11xLctxoq1NheJngBOsRBxmKftAj-fKZy)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kashif Mahmood</h1>
 <h3 align="center">AI Enthusiast | Data Scientist | Problem Solver | Machine Learning | Deep Learning | Smart Agriculture Researcher | Image Processing | Web Developer</h3>
 
