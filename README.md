@@ -1,11 +1,11 @@
 [![MasterHead](https://drive.google.com/uc?id=1Z6GijtlwxTrqx9ENFu2XRZ7xh6jW4E7w)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kashif Mahmood</h1>
-<h3 align="center">Data Scientist | Problem Solver | Machine Learning | Deep Learning | Smart Agriculture Researcher | Image Processing | Web Developer</h3>
+<h3 align="center">AI Enthusiast | Data Scientist | Problem Solver | Machine Learning | Deep Learning | Smart Agriculture Researcher | Image Processing | Web Developer</h3>
 
 ## 💫 About Me
 
 **Professional Version:**  
-I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on experience, eager to make impactful contributions in the field. My core expertise lies in machine learning, deep learning, research, and image processing. I am passionate about solving real-world problems and continuously expanding my skill set through collaboration with industry professionals.
+I’m Kashif Mahmood, an AI & Data enthusiast passionate about transforming data into intelligent, real-world solutions. With hands-on experience in machine learning, deep learning, and AI research, I focus on building data-driven systems that combine analytical insight with automation and intelligence. My work integrates AI models, image-based systems, and smart solutions for domains like agriculture and healthcare. I am passionate about solving real-world problems and continuously expanding my skill set through collaboration with industry professionals.
 
 ---
 
@@ -13,13 +13,14 @@ I’m Kashif Mahmood, an aspiring data scientist with over a year of hands-on ex
 
 <img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/01/analytics-1.gif">
 
-- 🕸️ Leveraged BeautifulSoup for web scraping
 - 📊 Performed data preprocessing, exploratory data analysis (EDA), and data visualization using Pandas, NumPy, Matplotlib, Seaborn, and Plotly
 - ⚙️ Applied various feature engineering techniques including standardization, mathematical transformations, and PCA
 - 🤖 Built machine learning models using Scikit-learn and Pandas
-- 🧠 Developed deep learning models for image processing tasks using PyTorch
-- 🖼️ Worked on image classification, prediction systems, and interactive dashboard applications
-- 🔍 Conducted model evaluation and tuning using techniques such as cross-validation, grid search, and confusion matrix analysis
+- 🧠 Design neural networks and computer vision pipelines using PyTorch and TensorFlow
+- 🖼️ Work on image processing, object detection, and AI-powered decision systems
+- 🕸️ Build data-driven applications with Flask and core Web development technologies
+- 🔍 Conducted model evaluation and optimization using techniques such as cross-validation, grid search, and confusion matrices
+- 🌾 Research and develop AI-based solutions for Smart Agriculture, focusing on disease and pest detection
 
 ---
 
